@@ -2,7 +2,7 @@
 
 <p>Welcome to my page!
 <br>
-I'm Boris, Software Developer and Junior DevOps from <b>La Paz, Bolivia <img src="images/bolivia.png" width="13"/> </b> </p>
+I'm Alvaro Flores, DevOps Engineer and Junior Architect from <b>La Paz, Bolivia <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/25px-Flag_of_Bolivia.svg.png" alt="Bolivia" width="18"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Escudo_del_Club_Bol%C3%ADvar.svg/25px-Escudo_del_Club_Bol%C3%ADvar.svg.png" alt="Club Bolívar" width="18"/> </b> </p>
 
 ## Things | code with 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,6 +36,9 @@ I'm Boris, Software Developer and Junior DevOps from <b>La Paz, Bolivia <img src
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+<br>
+## My page
+[![Website](https://img.shields.io/badge/Website-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alvaroflores.capibaradigital.com/)
 <br>
 
 
